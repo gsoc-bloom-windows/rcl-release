@@ -1,0 +1,5 @@
+Source: ros-dashing-rcl
+Version: 0.7.5
+Description: The ROS client library common implementation.
+ This package contains an API which builds on the ROS middleware API and is optionally built upon by the other ROS client libraries.
+Build-Depends:

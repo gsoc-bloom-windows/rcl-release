@@ -1,0 +1,4 @@
+Source: ros-dashing-rcl-lifecycle
+Version: 0.7.5
+Description: Package containing a C-based lifecycle implementation
+Build-Depends:
